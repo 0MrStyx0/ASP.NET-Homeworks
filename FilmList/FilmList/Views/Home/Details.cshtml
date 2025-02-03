@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+@if (ViewBag.Movie is not null)
+{
+    <div class="card container" style="width: 18rem;">
+        <img style="padding:10px" class="card-img-top" src="@ViewBag.Movie.Poster" alt="Card image cap">
+        <div class="card-body">
+            <p class="card-text text-center">Name: @ViewBag.Movie.Title</p>
+            <p class="card-text text-center">Rated: @ViewBag.Movie.Rated</p>
+            <p class="card-text text-center">Language: @ViewBag.Movie.Language</p>
+            <p class="card-text text-center">Actors: @ViewBag.Movie.Actors</p>
+            <p class="card-text text-center">Director: @ViewBag.Movie.Director</p>
+
+            @if (ViewBag.Movie.Ratings is not null)
+            {
+                <h4>   Ratings:</h4>
+                <div class="card container">
+                    @foreach (var rating in ViewBag.Movie.Ratings)
+                    {
+                        <div class="card-body">
+                            <div class="card my-3">
+                                <p class="card-text text-center">Source: @rating.Source</p>
+                                <p class="card-text text-center">Value: @rating.Value</p>
+                            </div>
+
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+}
+

@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "eNN1uARpTgQrONeG33U/YMk/9nm7QyzFutXdexHdPU4=",
+  "Source": "FilmList",
+  "BasePath": "_content/FilmList",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FilmList\\wwwroot",
+      "Source": "FilmList",
+      "ContentRoot": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\wwwroot\\",
+      "BasePath": "_content/FilmList",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
