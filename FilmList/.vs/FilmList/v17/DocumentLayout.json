@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PK\\ASP.NET\\FilmList\\",
+  "WorkspaceRootPath": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\pk\\asp.net\\filmlist\\filmlist\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\pk\\asp.net\\filmlist\\filmlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\pk\\asp.net\\filmlist\\filmlist\\models\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\models\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\pk\\asp.net\\filmlist\\filmlist\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\dovla_nd00\\asp.net\\asp.net-homeworks\\filmlist\\filmlist\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\pk\\asp.net\\filmlist\\filmlist\\models\\apiresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\dovla_nd00\\asp.net\\asp.net-homeworks\\filmlist\\filmlist\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\dovla_nd00\\asp.net\\asp.net-homeworks\\filmlist\\filmlist\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\dovla_nd00\\asp.net\\asp.net-homeworks\\filmlist\\filmlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\dovla_nd00\\asp.net\\asp.net-homeworks\\filmlist\\filmlist\\models\\apiresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\models\\apiresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\pk\\asp.net\\filmlist\\filmlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|c:\\users\\dovla_nd00\\asp.net\\asp.net-homeworks\\filmlist\\filmlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E70A44-9E41-4644-8B7D-ED01FABDD1BE}|FilmList\\FilmList.csproj|solutionrelative:filmlist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,29 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ratings.cs",
-              "DocumentMoniker": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Models\\Ratings.cs",
-              "RelativeDocumentMoniker": "FilmList\\Models\\Ratings.cs",
-              "ToolTip": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Models\\Ratings.cs",
-              "RelativeToolTip": "FilmList\\Models\\Ratings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "FilmList\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Models\\Rating.cs",
+              "RelativeToolTip": "FilmList\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T12:16:24.107Z",
               "EditorCaption": ""
@@ -65,50 +53,48 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FilmList\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FilmList\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:03:27.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T12:03:27.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FilmList\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "FilmList\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T12:18:28.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T12:18:28.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Views\\Home\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "FilmList\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "FilmList\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-03T10:57:38.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Models\\Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "FilmList\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Models\\Movie.cs",
               "RelativeToolTip": "FilmList\\Models\\Movie.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T10:46:30.756Z",
               "EditorCaption": ""
@@ -117,14 +103,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ApiResults.cs",
-              "DocumentMoniker": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Models\\ApiResults.cs",
+              "DocumentMoniker": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Models\\ApiResults.cs",
               "RelativeDocumentMoniker": "FilmList\\Models\\ApiResults.cs",
-              "ToolTip": "C:\\Users\\PK\\ASP.NET\\FilmList\\FilmList\\Models\\ApiResults.cs",
+              "ToolTip": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\Models\\ApiResults.cs",
               "RelativeToolTip": "FilmList\\Models\\ApiResults.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T10:46:04.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T10:46:04.415Z"
             }
           ]
         }

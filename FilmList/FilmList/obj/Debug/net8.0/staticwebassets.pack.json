@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dovla_nd00\\ASP.NET\\ASP.NET-Homeworks\\FilmList\\FilmList\\wwwroot\\unnamed.png",
+      "PackagePath": "staticwebassets\\unnamed.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FilmList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FilmList.props",
+      "PackagePath": "build\\FilmList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FilmList.props",
+      "PackagePath": "buildMultiTargeting\\FilmList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FilmList.props",
+      "PackagePath": "buildTransitive\\FilmList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
